@@ -1,4 +1,4 @@
-package kr.co.itwillfinal06;
+package kr.co.nunchizero;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
